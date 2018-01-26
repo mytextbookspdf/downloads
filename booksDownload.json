@@ -1,0 +1,1546 @@
+{
+  "2017": {
+    "key": "Year",
+    "label": "Year 2017",
+    "classList": {
+      "class1": {
+        "key": "Class",
+        "label": "Std 1",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/I/Std01-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/II/Std01-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/III/Std01-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/I/Std01-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/II/Std01-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/III/Std01-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/I/Std01-I-M-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/II/Std01-II-M-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/III/Std01-III-M-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/I/Std01-I-M-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/II/Std01-II-M-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/III/Std01-III-M-EM.pdf"
+            }
+          },
+          "Environmental": {
+            "key": "Subject",
+            "label": "Environmental",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/I/Std01-I-ES-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/II/Std01-II-ES-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/III/Std01-III-ES-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/I/Std01-I-ES-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/II/Std01-II-ES-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std1/master/III/Std01-III-ES-EM.pdf"
+            }
+          }
+        }
+      },
+      "class2": {
+        "key": "Class",
+        "label": "Std 2",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/I/Std02-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/II/Std02-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/III/Std02-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/I/Std02-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/II/Std02-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/III/Std02-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/I/Std02-I-M-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/II/Std02-II-M-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/III/Std02-III-M-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/I/Std02-I-M-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/II/Std02-II-M-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/III/Std02-III-M-EM.pdf"
+            }
+          },
+          "Environmental": {
+            "key": "Subject",
+            "label": "Environmental",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/I/Std02-I-ES-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/II/Std02-II-ES-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/III/Std02-III-ES-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/I/Std02-I-ES-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/II/Std02-II-ES-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std2/master/III/Std02-III-ES-EM.pdf"
+            }
+          }
+        }
+      },
+      "class3": {
+        "key": "Class",
+        "label": "Std 3",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/I/Std03-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/II/Std03-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/III/Std03-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/I/Std03-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/II/Std03-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/III/Std03-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/I/Std03-I-M-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/II/Std03-II-M-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/III/Std03-III-M-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/I/Std03-I-M-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/II/Std03-II-M-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/III/Std03-III-M-EM.pdf"
+            }
+          },
+          "Science": {
+            "key": "Subject",
+            "label": "Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/I/Std03-I-S-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/II/Std03-II-S-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/III/Std03-III-S-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/I/Std03-I-S-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/II/Std03-II-S-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/III/Std03-III-S-EM.pdf"
+            }
+          },
+          "SocialScience": {
+            "key": "Subject",
+            "label": "Social Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/I/Std03-I-SS-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/II/Std03-II-SS-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/III/Std03-III-SS-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/I/Std03-I-SS-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/II/Std03-II-SS-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std3/master/III/Std03-III-SS-EM.pdf"
+            }
+          }
+        }
+      },
+      "class4": {
+        "key": "Class",
+        "label": "Std 4",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/I/Std04-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/II/Std04-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/III/Std04-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/I/Std04-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/II/Std04-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/III/Std04-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/I/Std04-I-M-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/II/Std04-II-M-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/III/Std04-III-M-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/I/Std04-I-M-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/II/Std04-II-M-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/III/Std04-III-M-EM.pdf"
+            }
+          },
+          "Science": {
+            "key": "Subject",
+            "label": "Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/I/Std04-I-S-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/II/Std04-II-S-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/III/Std04-III-S-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/I/Std04-I-S-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/II/Std04-II-S-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/III/Std04-III-S-EM.pdf"
+            }
+          },
+          "SocialScience": {
+            "key": "Subject",
+            "label": "Social Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/I/Std04-I-SS-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/II/Std04-II-SS-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/III/Std04-III-SS-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/I/Std04-I-SS-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/II/Std04-II-SS-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std4/master/III/Std04-III-SS-EM.pdf"
+            }
+          }
+        }
+      },
+      "class5": {
+        "key": "Class",
+        "label": "Std 5",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/I/Std05-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/II/Std05-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/III/Std05-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/I/Std05-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/II/Std05-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/III/Std05-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/I/Std05-I-M-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/II/Std05-II-M-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/III/Std05-III-M-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/I/Std05-I-M-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/II/Std05-II-M-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/III/Std05-III-M-EM.pdf"
+            }
+          },
+          "Science": {
+            "key": "Subject",
+            "label": "Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/I/Std05-I-S-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/II/Std05-II-S-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/III/Std05-III-S-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/I/Std05-I-S-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/II/Std05-II-S-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/III/Std05-III-S-EM.pdf"
+            }
+          },
+          "SocialScience": {
+            "key": "Subject",
+            "label": "Social Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/I/Std05-I-SS-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/II/Std05-II-SS-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/III/Std05-III-SS-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/I/Std05-I-SS-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/II/Std05-II-SS-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std5/master/III/Std05-III-SS-EM.pdf"
+            }
+          }
+        }
+      },
+      "class6": {
+        "key": "Class",
+        "label": "Std 6",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/I/Std06-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/II/Std06-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/III/Std06-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/I/Std06-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/II/Std06-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/III/Std06-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/I/Std06-I-M-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/II/Std06-II-M-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/III/Std06-III-M-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/I/Std06-I-M-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/II/Std06-II-M-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/III/Std06-III-M-EM.pdf"
+            }
+          },
+          "Science": {
+            "key": "Subject",
+            "label": "Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/I/Std06-I-S-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/II/Std06-II-S-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/III/Std06-III-S-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/I/Std06-I-S-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/II/Std06-II-S-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/III/Std06-III-S-EM.pdf"
+            }
+          },
+          "SocialScience": {
+            "key": "Subject",
+            "label": "Social Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/I/Std06-I-SS-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/II/Std06-II-SS-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/III/Std06-III-SS-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/I/Std06-I-SS-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/II/Std06-II-SS-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std6/master/III/Std06-III-SS-EM.pdf"
+            }
+          }
+        }
+      },
+      "class7": {
+        "key": "Class",
+        "label": "Std 7",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/I/Std07-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/II/Std07-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/III/Std07-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/I/Std07-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/II/Std07-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/III/Std07-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/I/Std07-I-M-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/II/Std07-II-M-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/III/Std07-III-M-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/I/Std07-I-M-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/II/Std07-II-M-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/III/Std07-III-M-EM.pdf"
+            }
+          },
+          "Science": {
+            "key": "Subject",
+            "label": "Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/I/Std07-I-S-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/II/Std07-II-S-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/III/Std07-III-S-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/I/Std07-I-S-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/II/Std07-II-S-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/III/Std07-III-S-EM.pdf"
+            }
+          },
+          "SocialScience": {
+            "key": "Subject",
+            "label": "Social Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/I/Std07-I-SS-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/II/Std07-II-SS-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/III/Std07-III-SS-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/I/Std07-I-SS-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/II/Std07-II-SS-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std7/master/III/Std07-III-SS-EM.pdf"
+            }
+          }
+        }
+      },
+      "class8": {
+        "key": "Class",
+        "label": "Std 8",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/I/Std08-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/II/Std08-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/III/Std08-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/I/Std08-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/II/Std08-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/III/Std08-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/I/Std08-I-M-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/II/Std08-II-M-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/III/Std08-III-M-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/I/Std08-I-M-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/II/Std08-II-M-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/III/Std08-III-M-EM.pdf"
+            }
+          },
+          "Science": {
+            "key": "Subject",
+            "label": "Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/I/Std08-I-S-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/II/Std08-II-S-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/III/Std08-III-S-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/I/Std08-I-S-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/II/Std08-II-S-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/III/Std08-III-S-EM.pdf"
+            }
+          },
+          "SocialScience": {
+            "key": "Subject",
+            "label": "Social Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/I/Std08-I-SS-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/II/Std08-II-SS-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/III/Std08-III-SS-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/I/Std08-I-SS-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/II/Std08-II-SS-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std8/master/III/Std08-III-SS-EM.pdf"
+            }
+          }
+        }
+      },
+      "class9": {
+        "key": "Class",
+        "label": "Std 9",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/I/Std09-I-Tam.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/II/Std09-II-Tam.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/III/Std09-III-Tam.pdf"
+            }
+          },          
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": true,
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "term1": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/I/Std09-I-Eng.pdf",
+              "term2": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/II/Std09-II-Eng.pdf",
+              "term3": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/III/Std09-III-Eng.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/I/Std09-I-Maths-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/II/Std09-II-Maths-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/III/Std09-III-Maths-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/I/Std09-I-Maths-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/II/Std09-II-Maths-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/III/Std09-III-Maths-EM.pdf"
+            }
+          },
+          "Science": {
+            "key": "Subject",
+            "label": "Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/I/Std09-I-S-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/II/Std09-II-S-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/III/Std09-III-S-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/I/Std09-I-S-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/II/Std09-II-S-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/III/Std09-III-S-EM.pdf"
+            }
+          },
+          "SocialScience": {
+            "key": "Subject",
+            "label": "Social Science",
+            "isMedi": true,
+            "isTerms": true,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "terms": {
+              "term1": {
+                "key": "term",
+                "label": "Term I"
+              },
+              "term2": {
+                "key": "term",
+                "label": "Term II"
+              },
+              "term3": {
+                "key": "term",
+                "label": "Term III"
+              }
+            },
+            "links": {
+              "tamil_term1": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/I/Std09-I-SS-TM.pdf",
+              "tamil_term2": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/II/Std09-II-SS-TM.pdf",
+              "tamil_term3": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/III/Std09-III-SS-TM.pdf",
+              "english_term1": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/I/Std09-I-SS-EM.pdf",
+              "english_term2": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/II/Std09-II-SS-EM.pdf",
+              "english_term3": "https://raw.githubusercontent.com/mytextbookspdf/std9/master/III/Std09-III-SS-EM.pdf"
+            }
+          }
+        }
+      },
+      "class10": {
+        "key": "Class",
+        "label": "Std 10",
+        "subjects": {
+          "Tamil": {
+            "key": "Subject",
+            "label": "Tamil",
+            "isMedi": false,
+            "isTerms": false,
+            "links": {
+              "link": "https://raw.githubusercontent.com/mytextbookspdf/std10/master/Std10-Tamil.pdf"
+            }
+          },
+          "English": {
+            "key": "Subject",
+            "label": "English",
+            "isMedi": false,
+            "isTerms": false,
+            "links": {
+              "link": "https://raw.githubusercontent.com/mytextbookspdf/std10/master/Std10-English.pdf"
+            }
+          },
+          "Mathematics": {
+            "key": "Subject",
+            "label": "Mathematics",
+            "isMedi": true,
+            "isTerms": false,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "links": {
+              "tamil_link": "https://raw.githubusercontent.com/mytextbookspdf/std10/master/Std10-Maths-TM.pdf",
+              "english_link": "https://raw.githubusercontent.com/mytextbookspdf/std10/master/Std10-Maths-EM.pdf"
+            }
+          },
+          "Science": {
+            "key": "Subject",
+            "label": "Science",
+            "isMedi": true,
+            "isTerms": false,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "links": {
+              "tamil_link": "https://raw.githubusercontent.com/mytextbookspdf/std10/master/Std10-Science-TM.pdf",
+              "english_link": "https://raw.githubusercontent.com/mytextbookspdf/std10/master/Std10-Science-EM.pdf"
+            }
+          },
+          "SocialScience": {
+            "key": "Subject",
+            "label": "Social Science",
+            "isMedi": true,
+            "isTerms": false,
+            "medium": {
+              "tamil": {
+                "key": "medium",
+                "label": "Tamil"
+              },
+              "english": {
+                "key": "medium",
+                "label": "English"
+              }
+            },
+            "links": {
+              "tamil_link": "https://raw.githubusercontent.com/mytextbookspdf/std10/master/Std10-SocSci-TM.pdf",
+              "english_link": "https://raw.githubusercontent.com/mytextbookspdf/std10/master/Std10-SocSci-EM.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}
